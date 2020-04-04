@@ -1,0 +1,103 @@
+********************
+* ''* ' '<<<'  '   *
+* *'* * '***   ' ' *
+* *' ''' <v*  ' '' *
+*'*'***'**v* '   ' *
+* *  * '**v*'  ''  *
+* *   ''**v****  ''*
+*'*''''***<****'  '*
+* ****** '  ''*''''*
+*' ''' *' '' '*''''*
+*' ''' * ''' '*''''*
+* ******''''''*' ''*
+*' ' ' * ' '  *' ''*
+*'*  ''*'  '' *''''*
+* *'   **'*****''''*
+*'*  ' **>*****''''*
+* *''''*>'< '  ''''*
+*'*''' *>'<'  '''''*
+* *    *>'<'  '''''*
+*>* '''* ^ '  '' ''*
+*<* '' *''' ' '   '*
+*'****** ''''''' ''*
+*'''^>v<'' ' ''''''*
+********************
+\\
+playerx=10
+playery=12
+checkpointx=7
+checkpointy=2
+logx=5
+logy=2
+rollingstonex=7
+rollingstoney=3
+logx=7
+logy=4
+logx=16
+logy=11
+logx=17
+logy=11
+logx=15
+logy=12
+logx=18
+logy=12
+logx=17
+logy=13
+logx=16
+logy=14
+logx=15
+logy=14
+logx=17
+logy=15
+logx=16
+logy=15
+logx=18
+logy=16
+logx=17
+logy=16
+logx=15
+logy=16
+logx=14
+logy=16
+logx=14
+logy=17
+logx=17
+logy=17
+logx=16
+logy=17
+pushbuttonx=5
+pushbuttony=18
+logx=14
+logy=18
+logx=16
+logy=18
+pushbuttonx=9
+pushbuttony=18
+logx=17
+logy=19
+logx=14
+logy=19
+logx=17
+logy=20
+logx=15
+logy=20
+logx=16
+logy=20
+logx=14
+logy=20
+logx=14
+logy=21
+magicwarpx=1
+magicwarpy=22
+logx=18
+logy=22
+logx=16
+logy=22
+logx=15
+logy=22
+logx=17
+logy=22
+logx=14
+logy=22
+logx=25
+logy=30

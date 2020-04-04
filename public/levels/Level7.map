@@ -1,0 +1,45 @@
+********************
+*''' *'*'''' ' ''''*
+* '  *   *********'*
+*   '* ***     ''* *
+* * '* *' ' ''   * *
+*    *'* ''''    ' *
+*  * * **'    ****'*
+** * * *  '''** '*'*
+*''' * *******   *'*
+*' ' * *^^^^^^^^^*v*
+*''* >'   '   '''  *
+**''' ^^^^*^ ' ' *^*
+* ' * ' '   ** ' *'*
+* * ' '  '   ' ''*'*
+*'   ' *  '* '   *'*
+*'   '   '   '   * *
+*'*   '         * '*
+* '*' ' ''    *'*' *
+*'''  *     ' * *  *
+*'    ' '*   ' *** *
+*  '    *  * **' ''*
+*' '  **'     *  ***
+*             *  ' *
+********************
+\\
+playerx=9
+playery=22
+pushbuttonx=15
+pushbuttony=5
+logx=6
+logy=8
+rollingstonex=6
+rollingstoney=10
+rollingstonex=12
+rollingstoney=14
+checkpointx=10
+checkpointy=14
+rollingstonex=5
+rollingstoney=15
+rollingstonex=9
+rollingstoney=17
+rollingstonex=13
+rollingstoney=18
+magicwarpx=18
+magicwarpy=22

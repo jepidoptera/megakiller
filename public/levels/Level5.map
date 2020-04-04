@@ -1,0 +1,53 @@
+********************
+*'''  '''''' *'''''*
+*' '  ''   *<*''' '*
+*''''''    *v* ''''*
+*''''' ''''*>* ''''*
+************^*' '''*
+*'     '''' ''*''''*
+************* ' '''*
+*''' ' '''' '''''''*
+**************'''''*
+*''''''''''''''''''*
+*************** ****
+*'* *'*    ''** * **
+*'*<''*''''''* ''<**
+*'*'*'*''''''****^**
+*'''''**  ' *****v**
+*''' '' '' '>^<'* **
+*'''''****' ***' 'v*
+*'''''*'< '''*''****
+*'''''**'* ''*'''''*
+*' '''*''''' * *'*'*
+*' '''*   '''*'*>''*
+*'''' *''' ''*'*'*'*
+********************
+\\
+playerx=1
+playery=22
+magicwarpx=2
+magicwarpy=2
+checkpointx=16
+checkpointy=5
+pushbuttonx=1
+pushbuttony=6
+rollingstonex=12
+rollingstoney=6
+pushbuttonx=1
+pushbuttony=8
+rollingstonex=13
+rollingstoney=8
+pushbuttonx=1
+pushbuttony=10
+rollingstonex=14
+rollingstoney=10
+pushbuttonx=3
+pushbuttony=12
+logx=17
+logy=16
+logx=16
+logy=17
+pushbuttonx=7
+pushbuttony=18
+pushbuttonx=16
+pushbuttony=22

@@ -1,0 +1,135 @@
+********************
+*'' * '''''' *'''''*
+*' '  *' ^ '^<''' '*
+* '  ** * ' v  '' '*
+*'''''* *''*'' ''*'*
+*''' ' '  '<''' '' *
+*'''<** ****'* '' '*
+*''''*^ ''''''' *'**
+*'''''*'''**'** *'**
+*^***'** '  ''>' ''*
+*'' '''''*'* '* * **
+* * * ****'**' '*'**
+*''>*'     ' '*'*''*
+*'* *'<' *'****'**'*
+***'**' >*'*''' '''*
+*''''' *'*'^' * **'*
+***'****'**''v*'*''*
+*'* *'' ''' *'*' ' *
+*''' ***'****'** ''*
+*''**''* *''' ''''**
+*'*'''*'' '** ** ***
+*'*' **' '' *'*'>*<*
+*'''' ''' '''''>^<'*
+********************
+\\
+playerx=1
+playery=1
+logx=12
+logy=1
+rollingstonex=10
+rollingstoney=2
+firex=7
+firey=3
+rollingstonex=15
+rollingstoney=3
+logx=13
+logy=3
+logx=11
+logy=3
+logx=9
+logy=4
+logx=10
+logy=4
+logx=3
+logy=4
+logx=4
+logy=4
+logx=1
+logy=4
+logx=2
+logy=5
+rollingstonex=4
+rollingstoney=5
+firex=9
+firey=5
+firex=5
+firey=5
+pushbuttonx=7
+pushbuttony=5
+firex=12
+firey=5
+logx=3
+logy=6
+logx=4
+logy=7
+logx=2
+logy=7
+firex=7
+firey=7
+pushbuttonx=12
+pushbuttony=7
+firex=17
+firey=7
+firex=10
+firey=7
+firex=14
+firey=7
+logx=2
+logy=8
+firex=16
+firey=9
+logx=5
+logy=9
+firex=19
+firey=9
+rollingstonex=11
+rollingstoney=9
+rollingstonex=9
+rollingstoney=9
+firex=12
+firey=9
+pushbuttonx=17
+pushbuttony=9
+firex=17
+firey=11
+logx=6
+logy=12
+rollingstonex=3
+rollingstoney=12
+firex=3
+firey=13
+rollingstonex=8
+rollingstoney=14
+firex=4
+firey=15
+firex=1
+firey=15
+firex=8
+firey=15
+pushbuttonx=3
+pushbuttony=15
+rollingstonex=13
+rollingstoney=16
+firex=13
+firey=17
+firex=3
+firey=17
+firex=6
+firey=17
+firex=10
+firey=17
+pushbuttonx=8
+pushbuttony=17
+firex=15
+firey=19
+firex=11
+firey=19
+firex=8
+firey=19
+pushbuttonx=13
+pushbuttony=19
+firex=13
+firey=21
+magicwarpx=18
+magicwarpy=22

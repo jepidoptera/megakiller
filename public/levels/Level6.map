@@ -1,0 +1,77 @@
+********************
+*''v^ <>'''' ''''*'*
+*' v^ <>        '*<*
+*'***v**********'*'*
+*'*'*'*''''''' *'*'*
+*'*'***''''''*'*'*'*
+*'^    '''' '''''^'*
+*'*  ^  ''''''' '''*
+*>*' **''*' '''''''*
+*'*' '''''  '''''''*
+*'*''''''''''''''''*
+* **********'''''''*
+*''''*'v '><'*'' ***
+*'' '*'**>********'*
+*''' *'*'v''''' '''*
+*''''*'** ********'*
+*''' * '*'*''''''*'*
+*''''*''*'* '' ' *'*
+*''****'* *''''' *'*
+*''*''''*'*''''''*'*
+*' *'****v********<*
+*' *'''' ^' '' ''''*
+*''*' ''*''''''''''*
+********************
+\\
+playerx=18
+playery=18
+pushbuttonx=18
+pushbuttony=1
+rollingstonex=5
+rollingstoney=3
+pushbuttonx=5
+pushbuttony=4
+rollingstonex=12
+rollingstoney=5
+logx=16
+logy=5
+rollingstonex=16
+rollingstoney=6
+rollingstonex=8
+rollingstoney=8
+checkpointx=16
+checkpointy=9
+rollingstonex=13
+rollingstoney=10
+logx=3
+logy=12
+logx=2
+logy=12
+logx=1
+logy=13
+pushbuttonx=18
+pushbuttony=13
+logx=2
+logy=14
+rollingstonex=16
+rollingstoney=14
+logx=4
+logy=15
+logx=3
+logy=15
+logx=1
+logy=15
+logx=3
+logy=16
+logx=1
+logy=17
+logx=2
+logy=17
+firex=9
+firey=17
+magicwarpx=1
+magicwarpy=21
+logx=8
+logy=21
+rollingstonex=9
+rollingstoney=21
