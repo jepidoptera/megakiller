@@ -1,27 +1,27 @@
 {
-  "name": "the-most-badass-project-evah",
+  "name": "megakiller",
   "version": "1.0.0",
-  "description": "tbd",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jepidoptera/The-Most-Badass-Project-Evah.git"
+    "url": "git+https://github.com/jepidoptera/megakiller.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jepidoptera/The-Most-Badass-Project-Evah/issues"
+    "url": "https://github.com/jepidoptera/megakiller/issues"
   },
-  "homepage": "https://github.com/jepidoptera/The-Most-Badass-Project-Evah#readme",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
-    "firebase": "^7.12.0"
-  }
+  "homepage": "https://github.com/jepidoptera/megakiller#readme"
 }
